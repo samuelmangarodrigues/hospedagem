@@ -1,0 +1,14 @@
+C:\Users\samue\Projetos\DioProjects\hospedagem\bin\Debug\net8.0\hospedagem.exe
+C:\Users\samue\Projetos\DioProjects\hospedagem\bin\Debug\net8.0\hospedagem.deps.json
+C:\Users\samue\Projetos\DioProjects\hospedagem\bin\Debug\net8.0\hospedagem.runtimeconfig.json
+C:\Users\samue\Projetos\DioProjects\hospedagem\bin\Debug\net8.0\hospedagem.dll
+C:\Users\samue\Projetos\DioProjects\hospedagem\bin\Debug\net8.0\hospedagem.pdb
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfoInputs.cache
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfo.cs
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.dll
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\refint\hospedagem.dll
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.pdb
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\hospedagem.genruntimeconfig.cache
+C:\Users\samue\Projetos\DioProjects\hospedagem\obj\Debug\net8.0\ref\hospedagem.dll
